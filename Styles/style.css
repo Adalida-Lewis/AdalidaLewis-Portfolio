@@ -1,0 +1,50 @@
+
+.navbar-brand {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 2em;
+    
+}
+.headshotPic {
+    width:100%;
+    border-radius: 25%;
+}
+
+.footnote {
+    font-size: .8em;
+}
+
+.card:hover {
+    box-shadow: 12px 12px 2px 1px #8686b5;
+}
+.projectCards {
+padding: 0 0 10px 0;
+}
+
+.projectCards img{
+width: 100%;
+height: auto;
+object-fit: scale-down;
+}
+
+.skillPills {
+    flex-wrap: wrap;
+    row-gap: 10px;
+}
+
+.contactLinks {
+    align-self: center;
+    justify-items: left;
+}
+
+.contactLinks .contactIcon {
+    background-color: #add8e6;
+    width:50px;
+    height: auto;
+    padding: 10px;
+    border-radius: 15px;
+}
+.contactLinks .contactIcon:hover {
+    background-color: #8686b5;
+}
+
+  
